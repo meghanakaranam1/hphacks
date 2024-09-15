@@ -1,2 +1,2 @@
-## GreenCompute
+## OmniProfiler
 
